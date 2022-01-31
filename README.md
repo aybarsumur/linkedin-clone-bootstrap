@@ -1,8 +1,10 @@
 # Kodluyoruz - Bootstrap Ödev 3
 ## Linkedin clone tasarımı 
-Tasarım Görseli;
+Tasarım Görseli - 1;
 
 ![Ekran Resmi](assets/kodluyoruzodev9gorsel.png)
+
+Tasarım Görseli - 2;
 
 ![Ekran Resmi](assets/kodluyoruzodev9-1gorsel.png)
 
